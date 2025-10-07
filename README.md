@@ -1,4 +1,4 @@
-# README.md (vložit do kořene repa)
+# README.md
 
 ````markdown
 # ☁️ VTX.Cloud — Veterinary Cloud (TS, NestJS + Next.js)
